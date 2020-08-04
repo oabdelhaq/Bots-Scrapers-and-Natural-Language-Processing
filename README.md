@@ -1,5 +1,5 @@
 # SocialMediaAnalysis
-This repository utilizes web scraping and NLP methods to conduct analysis of public opinion regarding USPS and Remployment/Unemployment, and IRS policies via social media.
+This repository uses web crawlers to scrape comments on social media platforms and analyze them for sentiment, polarization, subjectivity, emotion, and importance. Correlation Explanation is an algorithm used for topic modeling. The topics can then be tracked for trends over time. There is also a document summarization algorithm based on frequency.
 
 ## TikTok Scraper
 
@@ -13,7 +13,7 @@ This repository utilizes web scraping and NLP methods to conduct analysis of pub
 
 #### Inputs:
 Before executing, make sure to change the hashtag variable to the url to that of the trend to be scraped. The url is set to "https://www.tiktok.com/tag/stimuluscheck?lang=en&loginType=facebook". 
-Simply change hashtag to "https://www.tiktok.com/tag/Unemployment?lang=en&loginType=facebook".
+Simply change hashtag to "https://www.tiktok.com/tag/Entrepreneur?lang=en&loginType=facebook".
 Username and password are requested by the main method.
 
 #### Outputs:
