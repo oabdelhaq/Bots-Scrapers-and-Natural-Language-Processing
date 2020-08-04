@@ -1,4 +1,5 @@
 # SocialMediaAnalysis
+Please note: this repository is for academic and research purposes.
 This repository uses web crawlers to scrape comments on social media platforms and analyze them for sentiment, polarization, subjectivity, emotion, and importance. Correlation Explanation is an algorithm used for topic modeling. The topics can then be tracked for trends over time. There is also a document summarization algorithm based on frequency.
 Collect Data -> EDA -> Modeling
 
